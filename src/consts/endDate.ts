@@ -1,0 +1,1 @@
+export const endDateConst = "2025-07-11T00:00:00Z" as const
